@@ -9,3 +9,7 @@ L>E>G>B
 - E: enclosing 函数内部与内嵌函数之间
 - G: global 全局作用域
 - B: built-in 内置作用域
+
+闭包的作用：
+- 封装
+- 代码复用
