@@ -2,7 +2,7 @@
 
 来源：[Python装饰器](https://www.imooc.com/learn/581)
 
-##LEGB
+## LEGB
 L>E>G>B
 
 - L: local 函数内部作用域
